@@ -1,0 +1,12 @@
+id: nextjs-landing-page
+name: Next.js Landing Page
+description: Create a modern, responsive landing page using Next.js 14 with App Router, Tailwind CSS, and TypeScript
+version: 1.0.0
+author: getskill
+tags:
+  - nextjs
+  - landing-page
+  - tailwind
+  - typescript
+  - react
+  - frontend

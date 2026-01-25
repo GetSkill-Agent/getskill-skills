@@ -1,0 +1,12 @@
+id: api-integration
+name: API Integration
+description: Integrate external APIs with proper error handling, retries, and TypeScript types
+version: 1.0.0
+author: getskill
+tags:
+  - api
+  - fetch
+  - typescript
+  - integration
+  - http
+  - rest

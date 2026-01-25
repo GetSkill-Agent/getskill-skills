@@ -1,0 +1,11 @@
+id: readme-generator
+name: README Generator
+description: Create professional, comprehensive README files for any project
+version: 1.0.0
+author: getskill
+tags:
+  - readme
+  - documentation
+  - markdown
+  - github
+  - docs

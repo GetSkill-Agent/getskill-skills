@@ -1,0 +1,11 @@
+id: database-schema
+name: Database Schema Design
+description: Design efficient, scalable database schemas for applications
+version: 1.0.0
+author: getskill
+tags:
+  - database
+  - sql
+  - prisma
+  - schema
+  - postgresql

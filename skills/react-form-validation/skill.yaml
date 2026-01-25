@@ -1,0 +1,12 @@
+id: react-form-validation
+name: React Form Validation
+description: Build forms with client-side validation using React Hook Form and Zod
+version: 1.0.0
+author: getskill
+tags:
+  - react
+  - form
+  - validation
+  - zod
+  - react-hook-form
+  - typescript

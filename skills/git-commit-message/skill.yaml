@@ -1,0 +1,10 @@
+id: git-commit-message
+name: Git Commit Message
+description: Write clear, consistent git commit messages following conventional commits
+version: 1.0.0
+author: getskill
+tags:
+  - git
+  - commit
+  - conventional-commits
+  - version-control

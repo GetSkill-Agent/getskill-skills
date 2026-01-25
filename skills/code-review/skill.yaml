@@ -1,0 +1,10 @@
+id: code-review
+name: Code Review
+description: Systematic code review process for quality, security, and maintainability
+version: 1.0.0
+author: getskill
+tags:
+  - code-review
+  - quality
+  - security
+  - best-practices

@@ -1,0 +1,11 @@
+id: error-debugging
+name: Error Debugging
+description: Systematic approach to debugging errors in any codebase
+version: 1.0.0
+author: getskill
+tags:
+  - debugging
+  - error-handling
+  - troubleshooting
+  - javascript
+  - typescript

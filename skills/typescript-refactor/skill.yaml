@@ -1,0 +1,10 @@
+id: typescript-refactor
+name: TypeScript Refactoring
+description: Refactor code for better type safety, readability, and maintainability
+version: 1.0.0
+author: getskill
+tags:
+  - typescript
+  - refactoring
+  - types
+  - best-practices
