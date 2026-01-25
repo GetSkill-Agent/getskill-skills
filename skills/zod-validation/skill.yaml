@@ -1,0 +1,12 @@
+id: zod-validation
+name: Zod Validation
+description: Type-safe schema validation with Zod for forms, APIs, and runtime data
+version: 1.0.0
+author: getskill
+tags:
+  - zod
+  - validation
+  - typescript
+  - schema
+  - type-safety
+  - forms

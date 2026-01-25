@@ -1,0 +1,12 @@
+id: playwright-e2e
+name: Playwright E2E
+description: End-to-end testing with Playwright for web applications
+version: 1.0.0
+author: getskill
+tags:
+  - playwright
+  - e2e
+  - testing
+  - automation
+  - browser
+  - integration

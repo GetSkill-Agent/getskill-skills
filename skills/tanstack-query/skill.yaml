@@ -1,0 +1,12 @@
+id: tanstack-query
+name: TanStack Query
+description: Data fetching, caching, and state management with TanStack Query (React Query)
+version: 1.0.0
+author: getskill
+tags:
+  - tanstack-query
+  - react-query
+  - data-fetching
+  - caching
+  - react
+  - typescript

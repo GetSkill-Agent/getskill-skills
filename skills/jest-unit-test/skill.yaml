@@ -1,0 +1,12 @@
+id: jest-unit-test
+name: Jest Unit Test
+description: Write unit tests with Jest including mocking, assertions, and test organization
+version: 1.0.0
+author: getskill
+tags:
+  - jest
+  - testing
+  - unit-test
+  - mocking
+  - typescript
+  - tdd

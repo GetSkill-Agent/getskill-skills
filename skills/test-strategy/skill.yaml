@@ -1,0 +1,12 @@
+id: test-strategy
+name: Test Strategy
+description: Design effective testing strategies including test pyramid, coverage goals, and CI integration
+version: 1.0.0
+author: getskill
+tags:
+  - testing
+  - strategy
+  - test-pyramid
+  - coverage
+  - ci-cd
+  - quality

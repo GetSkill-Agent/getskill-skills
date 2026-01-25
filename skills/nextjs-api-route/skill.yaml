@@ -1,0 +1,12 @@
+id: nextjs-api-route
+name: Next.js API Route
+description: Build type-safe API routes in Next.js App Router with proper error handling and middleware
+version: 1.0.0
+author: getskill
+tags:
+  - nextjs
+  - api
+  - typescript
+  - backend
+  - rest
+  - route-handlers

@@ -1,0 +1,12 @@
+id: nextjs-server-actions
+name: Next.js Server Actions
+description: Use Server Actions for form handling, mutations, and data revalidation in Next.js
+version: 1.0.0
+author: getskill
+tags:
+  - nextjs
+  - server-actions
+  - forms
+  - typescript
+  - react
+  - mutations

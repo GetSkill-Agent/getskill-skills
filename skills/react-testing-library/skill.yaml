@@ -1,0 +1,12 @@
+id: react-testing-library
+name: React Testing Library
+description: Test React components with user-centric queries and interactions
+version: 1.0.0
+author: getskill
+tags:
+  - react
+  - testing
+  - testing-library
+  - components
+  - accessibility
+  - typescript

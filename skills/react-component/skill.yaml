@@ -1,0 +1,12 @@
+id: react-component
+name: React Component
+description: Build reusable React components with TypeScript, proper hooks usage, and composition patterns
+version: 1.0.0
+author: getskill
+tags:
+  - react
+  - typescript
+  - components
+  - hooks
+  - frontend
+  - composition

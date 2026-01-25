@@ -1,0 +1,12 @@
+id: prisma-crud
+name: Prisma CRUD
+description: Database CRUD operations with Prisma ORM including queries, relations, and transactions
+version: 1.0.0
+author: getskill
+tags:
+  - prisma
+  - database
+  - crud
+  - typescript
+  - orm
+  - sql
