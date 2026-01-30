@@ -1,0 +1,11 @@
+id: clean-code
+name: Clean Code
+description: Pragmatic coding standards and best practices
+version: 1.0.0
+author: antigravity-awesome-skills
+tags:
+  - clean-code
+  - best-practices
+  - coding-standards
+  - quality
+  - refactoring

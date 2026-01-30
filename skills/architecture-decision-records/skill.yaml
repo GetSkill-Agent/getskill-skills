@@ -1,0 +1,11 @@
+id: architecture-decision-records
+name: Architecture Decision Records
+description: Document significant technical decisions with ADRs
+version: 1.0.0
+author: antigravity-awesome-skills
+tags:
+  - architecture
+  - documentation
+  - decisions
+  - adr
+  - design

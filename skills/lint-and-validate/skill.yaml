@@ -1,0 +1,11 @@
+id: lint-and-validate
+name: Lint and Validate
+description: Quality control and static analysis after code changes
+version: 1.0.0
+author: antigravity-awesome-skills
+tags:
+  - linting
+  - validation
+  - quality
+  - static-analysis
+  - testing

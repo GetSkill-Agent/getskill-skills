@@ -1,0 +1,11 @@
+id: verification-before-completion
+name: Verification Before Completion
+description: Run checks before claiming work is done
+version: 1.0.0
+author: antigravity-awesome-skills
+tags:
+  - verification
+  - quality
+  - testing
+  - validation
+  - workflow
