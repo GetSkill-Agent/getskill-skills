@@ -165,6 +165,58 @@ See [Contributing Guide](CONTRIBUTING.md) for details.
 - **Focused** - Does one thing well
 - **Complete** - Includes success criteria and common pitfalls
 
+## FAQ
+
+### What is SKILL.md?
+
+SKILL.md is a markdown file that teaches AI coding agents (like Claude Code, Cursor, Windsurf) how to complete specific tasks. It's like a recipe: the agent reads the instructions and follows them step-by-step.
+
+### Where do I put SKILL.md files?
+
+For **Claude Code**: `~/.claude/skills/skill-name/SKILL.md` (global) or `.claude/skills/` (per-project)
+
+For **Cursor**: `.cursor/skills/skill-name/SKILL.md`
+
+### How is SKILL.md different from CLAUDE.md?
+
+- **CLAUDE.md** = Project-wide context and rules (always active)
+- **SKILL.md** = Task-specific instructions (triggered on-demand)
+
+Think of CLAUDE.md as "background knowledge" and SKILL.md as "recipes to follow".
+
+### What is skill.yaml?
+
+An optional metadata file that accompanies SKILL.md:
+
+```yaml
+id: my-skill-name
+description: What this skill does
+version: 1.0.0
+tags: [frontend, react]
+```
+
+### Which AI agents support SKILL.md?
+
+Any agent that reads markdown instructions:
+- Claude Code (Anthropic)
+- Cursor
+- Windsurf (Codeium)
+- Cline
+- Aider
+- Continue
+
+### How do I create my own skill?
+
+1. Create a folder: `skills/my-skill-name/`
+2. Add `SKILL.md` with: Trigger Conditions, Steps, Success Criteria
+3. Add `skill.yaml` with metadata
+4. Test it in your project
+5. Share via PR or [skill-share](https://github.com/GetSkill-Agent/skill-share)
+
+### Can I use skills offline?
+
+Yes! Once downloaded, skills work without internet (the AI agent may still need connectivity).
+
 ---
 
 ## References
